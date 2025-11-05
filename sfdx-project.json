@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "lwc-troubleshoot",
+  "name": "troubleshoot-lwc",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "65.0"
